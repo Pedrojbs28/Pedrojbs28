@@ -1,5 +1,5 @@
 # 💫 About Me:
-Formado em Gestão da Tecnologia da<br>Informação na Instituição Uninove Barra<br>Funda no período de 3 anos, dentro<br>desde período adquirir conhecimento<br>em Infraestrutura, Banco de dados,<br>Segurança da Informação e<br>Programação.<br>Obtenho Conhecimento em diversas<br>linguagens de Programação tais como<br>Python, Java ,Javascript.
+Formado em Gestão da Tecnologia da<br>Informação na Instituição Uninove Barra<br>Funda no período de 3 anos, dentro<br>desde período adquirir conhecimento<br>em Infraestrutura, Banco de dados,<br>Segurança da Informação e<br>Programação.<br>Obtenho Conhecimento em diversas<br>linguagens de Programação tais como<br>Python,Java,Javascript.
 
 
 ## 🌐 Socials:
